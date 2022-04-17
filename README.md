@@ -1,2 +1,2 @@
 # odin-recipes
-Página índice para outros recipes dos exercícios de https://www.theodinproject.com/
+Página índice para receitas do exercício Recipes encontrado em https://www.theodinproject.com/
