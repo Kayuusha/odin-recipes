@@ -1,0 +1,15 @@
+* {
+    background-color: chocolate;
+}
+
+#title {
+    color: white;
+    text-decoration: wavy;
+    font-weight: bolder;
+}
+
+.recipe {
+    text-decoration: none;
+    color: springgreen;
+    font-weight: bold;
+}
